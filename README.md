@@ -12,3 +12,4 @@
 - 编辑器里输入 右键菜单 可粘贴各种DrissionPage代码模板。
 
 ## 下载地址
+[https://github.com/wxhzhwxhzh/dp_helper_vscode_ext/releases/tag/1.0.36](https://github.com/wxhzhwxhzh/dp_helper_vscode_ext/releases/tag/1.0.36)
