@@ -1,6 +1,6 @@
 # dp_helper_vscode_ext
 
-# 🍒 骚神Vscode插件帮助页面
+# 🍒 骚神Vscode插件（免费版）
 
 ## 使用说明
 
