@@ -1,6 +1,10 @@
 # dp_helper_vscode_ext
 
 # 🍒 骚神Vscode插件（免费版）
+## 下载地址
+[https://github.com/wxhzhwxhzh/dp_helper_vscode_ext/releases/tag/1.0.36](https://github.com/wxhzhwxhzh/dp_helper_vscode_ext/releases/tag/1.0.36)
+
+
 
 ## 使用说明
 
@@ -11,5 +15,6 @@
 - 编辑器里输入 **dp-**  可以触发DrissionPage代码模板提示。
 - 编辑器里输入 右键菜单 可粘贴各种DrissionPage代码模板。
 
-## 下载地址
-[https://github.com/wxhzhwxhzh/dp_helper_vscode_ext/releases/tag/1.0.36](https://github.com/wxhzhwxhzh/dp_helper_vscode_ext/releases/tag/1.0.36)
+## 欢迎star该仓库（版本正在不断更新迭代中）
+
+
