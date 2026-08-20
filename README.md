@@ -2,7 +2,7 @@
 
 # 🍒 骚神Vscode插件（免费版）
 ## 下载地址
-[https://github.com/wxhzhwxhzh/dp_helper_vscode_ext/releases/tag/1.0.36](https://github.com/wxhzhwxhzh/dp_helper_vscode_ext/releases/tag/1.0.36)
+https://github.com/wxhzhwxhzh/dp_helper_vscode_ext/releases
 
 
 
